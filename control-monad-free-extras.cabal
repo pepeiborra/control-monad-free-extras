@@ -21,6 +21,6 @@ library
     Control.Monad.Free.Extras
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       base >=4.7 && <4.8, control-monad-free >= 0.5.5, deepseq, deepseq-extras, Hoed, prelude-extras
+  build-depends:       base >=4.7, control-monad-free >= 0.5.5, deepseq, deepseq-extras, Hoed, prelude-extras
   -- hs-source-dirs:      
   default-language:    Haskell98
