@@ -2,7 +2,7 @@
 -- further documentation, see http://haskell.org/cabal/users-guide/
 
 name:                control-monad-free-extras
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Extra instances for control-monad-free
 -- description:         
 homepage:            http://github.com/pepeiborra/control-monad-free-extras
@@ -21,6 +21,6 @@ library
     Control.Monad.Free.Extras
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       base >=4.7, control-monad-free >= 0.5.5, deepseq, deepseq-extras, Hoed, prelude-extras
+  build-depends:       base >=4.7, control-monad-free >= 0.5.5, deepseq, deepseq-extras, hoed-mini, prelude-extras
   -- hs-source-dirs:      
   default-language:    Haskell98
